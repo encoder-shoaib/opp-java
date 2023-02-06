@@ -1,4 +1,4 @@
-// Initialize a variable with your name and then print it.
+// 3.Initialize a variable with your name and then print it.
 
 public class Third {
     public  static void main(String [] args)
